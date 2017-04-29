@@ -1,0 +1,16 @@
+gems:
+  - jekyll-seo-tag
+
+exclude:
+
+array: []
+
+# for SEO
+#google_site_verification: 
+title: 'Is it WWIII yet?'
+description: 'For the days you wake up and need to check if you accidentally slept through the beginning of WWIII'
+url: 'https://IsItWWIIIyet.com'
+
+#logo: /images/isitwwiiiyet.jpg
+
+

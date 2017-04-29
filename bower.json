@@ -1,0 +1,39 @@
+{
+  "name": "page-openrov-com",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~4.0.0-alpha.6",
+    "modernizr": "~2.8.1",
+    "font-awesome": "^4.7.0",
+    "slick-carousel": "^1.6.0",
+    "babel-polyfill": "^0.0.1",
+    "country-list": "^2.0.2"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "scss/bootstrap.scss",
+        "dist/js/bootstrap.js"
+      ]
+    },
+    "font-awesome": {
+      "main": [
+        "./scss/font-awesome.scss",
+        "./fonts/*"
+      ]
+    },
+    "slick-carousel": {
+      "main": [
+        "./slick/slick.js",
+        "./slick/slick.scss",
+        "./slick/slick-theme.scss",
+        "./slick/ajax-loader.gif",
+        "./slick/fonts/*"
+      ]
+    }
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}

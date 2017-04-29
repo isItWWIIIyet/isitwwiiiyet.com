@@ -1,0 +1,52 @@
+$heightiPhone5: 568px;
+$heightNexus5: 640px;
+$heightiPhone6: 667px;
+$heightNexus5x-iPhone6P: 736px;
+$heightNexus6P: 773px;
+
+
+@mixin header-height() {
+        height: 36rem !important;
+
+        @media screen and (max-height: #{$heightNexus5x-iPhone6P}) { 
+            height: 29rem !important;
+        }
+        @media screen and (max-height: #{$heightiPhone6}) { 
+            height: 25rem !important;
+        }
+
+        @media screen and (max-height: #{$heightNexus5}) { // and iPhone5
+            height: 22rem !important;
+        }            
+}
+
+@mixin header-height-small() {
+        height: 26rem !important;
+
+        @media screen and (max-height: #{$heightNexus5x-iPhone6P}) { 
+            height: 19rem !important;
+        }
+        @media screen and (max-height: #{$heightiPhone6}) { 
+            height: 15rem !important;
+        }
+
+        @media screen and (max-height: #{$heightNexus5}) { // and iPhone5
+            height: 12rem !important;
+        }            
+}
+
+@mixin header-height-xsmall() {
+        height: 20rem !important;
+
+        @media screen and (max-height: #{$heightNexus5x-iPhone6P}) { 
+            height: 19rem !important;
+        }
+        @media screen and (max-height: #{$heightiPhone6}) { 
+            height: 15rem !important;
+        }
+
+        @media screen and (max-height: #{$heightNexus5}) { // and iPhone5
+            height: 12rem !important;
+        }            
+}
+

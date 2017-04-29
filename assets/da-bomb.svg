@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg4232"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="da-bomb.svg">
+  <defs
+     id="defs4234">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4900-0-3">
+      <stop
+         style="stop-color:#1f1f1f;stop-opacity:1"
+         offset="0"
+         id="stop4922" />
+      <stop
+         style="stop-color:#303030;stop-opacity:1"
+         offset="1"
+         id="stop4924" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4900-0-3"
+       id="linearGradient4906"
+       x1="97.232773"
+       y1="284.69952"
+       x2="341.53519"
+       y2="284.5036"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2498413"
+     inkscape:cx="124.13487"
+     inkscape:cy="782.18764"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="163.64471,767.71595"
+       orientation="-0.00080193572,0.99999968"
+       id="guide4240" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4237">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4932"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72"
+       inkscape:export-filename="/home/roboto/devel/isitwwiiiyet.com/app/images/da-bomb.png"
+       transform="matrix(-0.91682012,0.39930048,-0.39930048,-0.91682012,524.87338,459.94802)">
+      <path
+         sodipodi:nodetypes="ssccssssssccsscs"
+         inkscape:connector-curvature="0"
+         d="m 352.54324,229.08786 c -7.61905,-7.61905 -24.70583,-7.61905 -32.32488,0 -13.09524,13.09524 -2.52538,43.31029 -2.52538,43.31029 l -13.13199,0 c 0,0 -42.94341,-34.92216 -70.22663,-39.32044 -38.33508,-6.17993 -91.17592,-0.27423 -121.16754,10.71429 -39.782017,14.57559 -42.331423,37.30633 -42.467303,40.91005 -7.5e-5,0.002 8e-5,-0.008 0,-0.006 -0.11342,2.85083 2.685286,26.22286 42.467303,40.79845 29.99162,10.98852 82.83246,16.89422 121.16754,10.71429 27.28322,-4.39828 70.22663,-39.32044 70.22663,-39.32044 l 13.13199,0 c 0,0 -10.56986,30.21505 2.52538,43.31029 7.61905,7.61905 24.70583,7.61905 32.32488,0 13.09524,-13.09524 0,-55.55539 0,-55.55539 0,0 13.09524,-42.46015 0,-55.55539 z"
+         style="fill:url(#linearGradient4906);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path4254"
+         inkscape:export-filename="/home/roboto/devel/isitwwiiiyet.com/app/images/da-bomb.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <g
+         transform="matrix(0.14520057,0,0,0.14520057,188.76904,283.23658)"
+         id="g4276">
+        <circle
+           cy="0"
+           cx="0"
+           r="292.29999"
+           id="circle4259" />
+        <g
+           style="fill:#f1cd43"
+           transform="scale(0.9783764,0.9783764)"
+           id="g4261">
+          <circle
+             cy="0"
+             cx="0"
+             r="50"
+             id="circle4263" />
+          <path
+             inkscape:connector-curvature="0"
+             d="M 75,0 A 75,75 0 0 0 37.5,-64.951905 L 125,-216.50635 A 250,250 0 0 1 250,0 Z"
+             id="bld" />
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             xlink:href="#bld"
+             transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+             id="use4266" />
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             xlink:href="#bld"
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+             id="use4268" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
